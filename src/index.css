@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Add this to your global CSS file */
+@keyframes rotateY {
+    0% {
+      transform: rotateY(0deg);
+    }
+    100% {
+      transform: rotateY(180deg);
+    }
+  }
+  
+  .rotate-animation {
+    animation: rotateY 1s infinite alternate; /* Rotates 180 degrees every second */
+  }
+  
