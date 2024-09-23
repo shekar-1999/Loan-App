@@ -46,7 +46,7 @@ const Home = () => {
     <FAQPage />
     <YouTubeVideo />
     <Footer />
-     <EMICalculator /> 
+     {/* <EMICalculator /> 
     <HomeLoan />
     <HomeApplicationForm />
     <QuestionnaireForm />
@@ -62,7 +62,7 @@ const Home = () => {
     <MortagageLoan />
     <Requirements /> 
     <CantactUs />
-    
+     */}
   </>
   );
 }
