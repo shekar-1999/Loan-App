@@ -26,7 +26,7 @@ import PersonalLoan from './Components/PersonalLoan';
 import CreditScoreTracker from './Components/CreditScoreTracker';
 import Creditcard2 from './Components/Creditcard2';
 import Fd from './Components/Fd';
-import VehicleInsurance from './Components/vehicleInsurance';
+import VehicleInsurance from './Components/VehicleInsurance';
 import GoldLoan from './Components/GoldLoan';
 import DocumentsUpload from './Components/DocumentsUpload';
 import MortagageLoan from './Components/MortagageLoan';
